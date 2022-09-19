@@ -1,0 +1,49 @@
+.createForm {
+    background-color: white !important;
+    opacity: 0.95;
+}
+.main {
+    background-image: url(../img/vince-fleming-aZVpxRydiJk-unsplash.jpg);
+    background-size: cover;
+    height: 100vh;
+}
+.cardd {
+    padding: 2%;
+    padding-left: 7%;
+    display: flex;
+    gap: 5%;
+    flex-wrap: wrap;
+    background-size: cover;
+    height: 100%;
+}
+.btn {
+    background-color: black;
+    color: white;
+    width: 100px;
+}
+.btndelete {
+    background-color: black !important;
+    color: white !important;
+    width: 100px;
+}
+.cardTeam {
+    padding: 2%;
+    padding-left: 7%;
+    display: flex;
+    gap: 5%;
+    flex-wrap: wrap;
+    background-size: cover;
+    height: 100vh;
+}
+.loop {
+    height: 31.5vh;
+    width: 100vh;
+}
+.btnn {
+    display: flex;
+    gap: 20%;
+}
+.btnnn {
+    display: flex;
+    gap: 38%;
+}
